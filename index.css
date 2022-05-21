@@ -422,8 +422,9 @@ button:focus {
         text-align:center;
     }
     .btn_one {
-    padding:6px 30px;
+    padding:6px 20px;
     width:60%;
+    align-items: center;
     margin:2vh auto;
     box-shadow:0px 10px 20px #a800d8cc;
     background: #a800d8;
@@ -452,8 +453,10 @@ button:focus {
     #bio h1 {
         width:100%;
     }
-    #contact h1 {
-        width:33%;
+    #about {
+        text-align: center;
+        width:100%;
+        margin-left:  16px;
     }
     header {
         width:100%;
