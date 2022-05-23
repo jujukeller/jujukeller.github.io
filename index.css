@@ -361,6 +361,7 @@ button:focus {
     text-align: center;
     display: inline-block;
     margin-left: 16px;
+    width: 93%;
     }
     #work{
         padding: 0vh 4vw;

@@ -4240,7 +4240,7 @@ button.btn.disabled, .btn:not(.close):not(.mfp-close).disabled, a.btn:not([href]
 
 .disabled .btn { opacity: .3; }
 
-@media (max-width: 991.98px) { button.btn:not(.btn-creative):not(.btn-slide), .btn:not(.close):not(.mfp-close):not(.btn-creative):not(.btn-slide), a.btn:not([href]):not([tabindex]):not(.btn-creative):not(.btn-slide) { font-size: 23px; height: 32px; line-height: 30px; padding: 0 14px; }
+@media (max-width: 991.98px) { button.btn:not(.btn-creative):not(.btn-slide), .btn:not(.close):not(.mfp-close):not(.btn-creative):not(.btn-slide), a.btn:not([href]):not([tabindex]):not(.btn-creative):not(.btn-slide) { font-size: 23px;}
   button.btn:not(.btn-creative):not(.btn-slide).btn-reveal:hover span, .btn:not(.close):not(.mfp-close):not(.btn-creative):not(.btn-slide).btn-reveal:hover span, a.btn:not([href]):not([tabindex]):not(.btn-creative):not(.btn-slide).btn-reveal:hover span { left: auto; right: auto; }
   button.btn:not(.btn-creative):not(.btn-slide).btn-reveal:hover i, .btn:not(.close):not(.mfp-close):not(.btn-creative):not(.btn-slide).btn-reveal:hover i, a.btn:not([href]):not([tabindex]):not(.btn-creative):not(.btn-slide).btn-reveal:hover i { display: none; }
   button.btn:not(.btn-creative):not(.btn-slide).btn-lg, .btn:not(.close):not(.mfp-close):not(.btn-creative):not(.btn-slide).btn-lg, a.btn:not([href]):not([tabindex]):not(.btn-creative):not(.btn-slide).btn-lg { font-size: 13px; height: 38px; line-height: 36px; padding: 0 24px; }
@@ -4323,6 +4323,7 @@ button.btn.disabled, .btn:not(.close):not(.mfp-close).disabled, a.btn:not([href]
   .heading-text h3 { font-size: 30px; margin-bottom: 10px; line-height: 36px; }
   .heading-text h4 { font-size: 24px; margin-bottom: 10px; line-height: 26px; }
   .heading-text p { font-size: 16px; margin-bottom: 16px; }
+  #btn
   .heading-text.heading-plain h2, .heading-text.heading-light h2, .heading-text.heading-section h2 { font-size: 40px; line-height: 44px; margin-bottom: 16px; }
   .heading-text.heading-plain h2:before, .heading-text.heading-light h2:before, .heading-text.heading-section h2:before { display: none; }
   .heading-text.heading-plain p, .heading-text.heading-light p, .heading-text.heading-section p { font-size: 16px; margin-bottom: 16px; } }
