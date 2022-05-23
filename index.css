@@ -305,6 +305,9 @@ header table {
     color:  #a800d8;
     text-decoration:none;
 }
+#bio {
+    width: 75%;
+}
 ::placeholder {
     color:#000;
 }
