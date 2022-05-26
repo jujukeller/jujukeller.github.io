@@ -351,7 +351,7 @@ button:focus {
     width: 100%;
     display: inline-block;
 }
-    #navigation{
+    #navigation
     visibility: hidden;
     display: inline-block;
     margin-left: 16px;
@@ -480,5 +480,11 @@ button:focus {
 
     #navigation a {
         color:#000;
+    }
+    #about h1{
+        text-align: center;
+        width:100%;
+        margin-left:  16px;
+        font-size: 34px
     }
 }
